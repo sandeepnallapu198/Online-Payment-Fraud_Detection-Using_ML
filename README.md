@@ -8,7 +8,7 @@
 The dataset link --> https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset
 
 
-# OnlinePayment-Fraud-Detection
+
 
 ## Problem statement 
 
@@ -53,6 +53,6 @@ The project pipeline can be briefly summarized in the following four steps:
 - **Model Evaluation:** We need to evaluate the models using appropriate evaluation metrics. Note that since the data is imbalanced it is is more important to identify which are fraudulent transactions accurately than the non-fraudulent. We need to choose an appropriate evaluation metric which reflects this business goal.
 
 
-# OnlinePayment-Fraud-Detection
+
 
 
